@@ -3,3 +3,4 @@ messAGE
 LASTSEEN
 HIDE LAST SEEN
 status
+camera added
